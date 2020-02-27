@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="registerButtonString">Register GDB</string>
+    <string name="serviceUrl">https://sampleserver6.arcgisonline.com/arcgis/rest/services/Sync/SaveTheBaySync/FeatureServer</string>
+    <string name="localGDB">/Download/geodatabases/baySummit227.geodatabase</string>
+</resources>
