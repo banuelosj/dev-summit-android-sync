@@ -3,5 +3,5 @@
 
     <string name="registerButtonString">Register GDB</string>
     <string name="serviceUrl">https://sampleserver6.arcgisonline.com/arcgis/rest/services/Sync/SaveTheBaySync/FeatureServer</string>
-    <string name="localGDB">/Download/geodatabases/baySummit227.geodatabase</string>
+    <string name="localGDB">/ArcGIS/geodatabases/baySummit.geodatabase</string>
 </resources>
