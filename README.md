@@ -1,7 +1,7 @@
 # Sync Offline Edits and Query Replica Id's on the server using the Google Volley library
 From the ArcGIS Runtime SDK for Android Sync Issues Developer Summit 2020 Presentation
 
-(sync-query-replica.png)
+![Sync and Query](sync-query-replica.png)
 
 ## How to use the sample
 1. Click on the bottom right `FloatingActionButton` to load the local replica. 
